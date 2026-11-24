@@ -1,2 +1,0 @@
-# Camelot
-Ocupados y Reservas.
